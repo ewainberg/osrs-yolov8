@@ -1,0 +1,8 @@
+path: .
+train: "C:\\Users\\Elias\\Desktop\\Projects\\Object Detection\\yolov8\\dataset\\images\\train"
+val: "C:\\Users\\Elias\\Desktop\\Projects\\Object Detection\\yolov8\\dataset\\images\\val"
+nc: 1  # Number of classes
+names:
+  - red_spider_eggs
+labels: dataset\\labels
+model_path: "yolov8s.pt"
